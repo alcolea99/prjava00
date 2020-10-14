@@ -1,0 +1,4 @@
+cd abrir carpeta
+"archivo" init inicia el archivo
+"archivo" status te dice el estado y permisos
+git add . te introduce todos los tipos(html...)
